@@ -1,14 +1,25 @@
-header {
-    background-color: #FD739C;
-    color:white;
+
 }
-h1 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
-}
-a, p, ul, aside {
+body {
     font-size: 22px;
     line-height: 34px;
-}
+  }
+  
+  header,
+  nav {
+    background-color: #fd739c;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 60px;
+  }
+  
+  h1,
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #whoami {
+      padding-top: 40px;
+  }
+
+  
